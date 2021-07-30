@@ -29,19 +29,19 @@
     <repository>
       <id>Devopstraining-groupcentral</id>
       <name>Devopstraining-group</name>
-      <url>http://34.123.174.237:8081/repository/Devopstraining-group/</url>
+      <url>http://35.238.159.206:8081/repository/Devopstraining-group/</url>
      </repository>
   </repositories>  
   <distributionManagement>
    <snapshotRepository>
       <id>Devopstraining-snapshot</id>
       <name>Devopstraining-snapshot</name>
-      <url>http://34.123.174.237:8081/repository/Devopstraining-snapshot/</url>
+      <url>http://35.238.159.206:8081/repository/Devopstraining-snapshot/</url>
       </snapshotRepository>
     <repository>
         <id>Devopstraining-releases</id>
         <name>Devopstraining-releases</name>
-        <url>http://34.123.174.237:8081/repository/Devopstraining-releases/</url>
+        <url>http://35.238.159.206:8081/repository/Devopstraining-releases/</url>
     </repository>
 </distributionManagement>
 
