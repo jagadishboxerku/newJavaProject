@@ -3,7 +3,7 @@
 <title>Hello World and Devops!</title>
 </head>
 <body>
-	<h1>Hello World, Devops and admins [${BUILD_NUMBER}]!</h1>
+	<h1>Hello World, Devops and admins [ops Team]!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
